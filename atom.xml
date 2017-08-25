@@ -4,7 +4,7 @@
   <subtitle><![CDATA[毛豆的奇幻世界]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://jerry.colobu.com/"/>
-  <updated>2017-08-25T08:18:51.205Z</updated>
+  <updated>2017-08-25T08:58:54.429Z</updated>
   <id>http://jerry.colobu.com/</id>
   
   <author>
@@ -18,9 +18,10 @@
     <title><![CDATA[Hello World]]></title>
     <link href="http://jerry.colobu.com/2017/08/25/hello-world/"/>
     <id>http://jerry.colobu.com/2017/08/25/hello-world/</id>
-    <published>2017-08-25T08:18:33.000Z</published>
-    <updated>2017-08-25T08:18:33.000Z</updated>
+    <published>2017-08-25T08:57:47.000Z</published>
+    <updated>2017-08-25T08:57:47.000Z</updated>
     <content type="html"><![CDATA[<p>我的网站上线了 ：）</p>
+<p><img src="/images/paper-plane.png" alt=""></p>
 <h2 id="Quick_Start">Quick Start</h2>
 <h3 id="Create_a_new_post">Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -41,14 +42,12 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>我的网站上线了 ：）</p>
+<p><img src="/images/paper-plane.png" alt=""></p>
 <h2 id="Quick_Start">Quick Start</h2>
-<h3 id="Create_a_new_post">Create a new post</h3>
-<figure class="highlight bash"><ta]]>
+<h3 id="Create_a_new_post">Create ]]>
     </summary>
     
       <category term="折纸" scheme="http://jerry.colobu.com/categories/%E6%8A%98%E7%BA%B8/"/>
-    
-      <category term="乐高机器人" scheme="http://jerry.colobu.com/categories/%E6%8A%98%E7%BA%B8/%E4%B9%90%E9%AB%98%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     
   </entry>
   
