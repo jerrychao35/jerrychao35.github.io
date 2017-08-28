@@ -4,7 +4,7 @@
   <subtitle><![CDATA[毛豆的奇幻世界]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://jerry.colobu.com/"/>
-  <updated>2017-08-28T06:36:16.341Z</updated>
+  <updated>2017-08-28T06:38:45.770Z</updated>
   <id>http://jerry.colobu.com/</id>
   
   <author>
@@ -13,6 +13,25 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://jerry.colobu.com/2017/08/28/hello-world/"/>
+    <id>http://jerry.colobu.com/2017/08/28/hello-world/</id>
+    <published>2017-08-28T06:38:30.000Z</published>
+    <updated>2017-08-28T06:38:30.000Z</updated>
+    <content type="html"><![CDATA[<p>我的网站上线了 ：）</p>
+<p><img src="/images/paper-plane.png" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>我的网站上线了 ：）</p>
+<p><img src="/images/paper-plane.png" alt=""></p>
+]]>
+    </summary>
+    
+      <category term="折纸" scheme="http://jerry.colobu.com/categories/%E6%8A%98%E7%BA%B8/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[中国科技馆的齿轮墙]]></title>
@@ -30,43 +49,6 @@
       <category term="齿轮" scheme="http://jerry.colobu.com/tags/%E9%BD%BF%E8%BD%AE/"/>
     
       <category term="科技" scheme="http://jerry.colobu.com/categories/%E7%A7%91%E6%8A%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://jerry.colobu.com/2017/08/25/hello-world/"/>
-    <id>http://jerry.colobu.com/2017/08/25/hello-world/</id>
-    <published>2017-08-25T08:57:47.000Z</published>
-    <updated>2017-08-25T08:57:47.000Z</updated>
-    <content type="html"><![CDATA[<p>我的网站上线了 ：）</p>
-<p><img src="/images/paper-plane.png" alt=""></p>
-<h2 id="Quick_Start">Quick Start</h2>
-<h3 id="Create_a_new_post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo s</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo g</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>我的网站上线了 ：）</p>
-<p><img src="/images/paper-plane.png" alt=""></p>
-<h2 id="Quick_Start">Quick Start</h2>
-<h3 id="Create_a_new_post">Create ]]>
-    </summary>
-    
-      <category term="折纸" scheme="http://jerry.colobu.com/categories/%E6%8A%98%E7%BA%B8/"/>
     
   </entry>
   
